@@ -4,7 +4,7 @@ Assignment by editing matadata-head
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
+    <meta charset="ISO-8859-1">
     <title>&lt;title&gt; element</title>
   </head>
   <body>
